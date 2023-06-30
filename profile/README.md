@@ -42,7 +42,7 @@ If you used this project and it worked on your phone, you can open a pr to add y
  - branch: ```topaz-SN100X-legacy```
  - dir: ```vendor/nxp/opensource/halimpl```
 
-[AOSPA/android_vendor_nxp_opensource_halimpl](https://github.com/AOSPA/android_vendor_nxp_opensource_hidlimp.git)
+[AOSPA/android_vendor_nxp_opensource_hidlimp](https://github.com/AOSPA/android_vendor_nxp_opensource_hidlimp.git)
  - branch: ```topaz-SN100X-legacy```
  - dir: ```vendor/nxp/opensource/hidlimp```
 

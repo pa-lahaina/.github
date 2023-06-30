@@ -127,3 +127,10 @@ I think we need to modify some fields of vibraor HAL to support other xiaomi lah
 - Thermal config 
 - Touchscreen firmwres
 - Vibrator effect firmwares
+
+### Known issues
+
+For renoir: 
+
+ - auto brightness
+ - double tap to wake

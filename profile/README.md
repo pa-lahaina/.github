@@ -50,6 +50,10 @@ If you used this project and it worked on your phone, you can open a pr to add y
  - branch: ```topaz-888```
  - dir: ```hardware/qcom/display```
 
+[pa-lahaina/android_vendor_qcom_opensource_recovery-ext](https://github.com/pa-lahaina/android_vendor_qcom_opensource_recovery-ext)
+ - branch: ```topaz```
+ - dir: ```vendor/qcom/opensource/recovery-ext```
+
 [EndCredits/clang-crepuscular](https://gitlab.com/EndCredits/clang-crepuscular)
  - branch: ```main```
  - dir: ```prebuilts/clang/host/linux-x86/clang-hana```

@@ -1,7 +1,5 @@
 ## Welcome! Paranoid Android for xiaomi lahaina devices
 
------
-
 ### Notice:
 
 - It's just a **personal project** and not an official one.
@@ -86,6 +84,8 @@ If you used this project and it worked on your phone, you can open a pr to add y
  - dir: ```vendor/xiaomi-firmware/renoir```
  - required: git-lfs
 
+-----
+
 ### What used common components
 
 ```makefile
@@ -111,6 +111,8 @@ TARGET_COMMON_QTI_COMPONENTS := \
 
 I think we need to modify some fields of vibraor HAL to support other xiaomi lahaina devices, so no switching to generic vibraor components
 
+-----
+
 ### What blobs decommonlized
 
 - ADSP modules
@@ -127,6 +129,8 @@ I think we need to modify some fields of vibraor HAL to support other xiaomi lah
 - Thermal config 
 - Touchscreen firmwres
 - Vibrator effect firmwares
+
+-----
 
 ### Known issues
 

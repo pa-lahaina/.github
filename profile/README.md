@@ -134,7 +134,5 @@ I think we need to modify some fields of vibraor HAL to support other xiaomi lah
 
 ### Known issues
 
-For renoir: 
+For renoir: You tell me
 
- - auto brightness
- - double tap to wake

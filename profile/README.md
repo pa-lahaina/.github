@@ -82,7 +82,7 @@ If you used this project and it worked on your phone, you can open a pr to add y
  - dir: ```vendor/xiaomi-firmware/renoir```
  - required: git-lfs
 
-### What used common cpmponents
+### What used common components
 
 ```makefile
 # QTI

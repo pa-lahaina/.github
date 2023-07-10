@@ -40,9 +40,9 @@ If you used this project and it worked on your phone, you can open a pr to add y
  - branch: ```topaz-SN100X-legacy```
  - dir: ```vendor/nxp/opensource/halimpl```
 
-[AOSPA/android_vendor_nxp_opensource_hidlimp](https://github.com/AOSPA/android_vendor_nxp_opensource_hidlimp.git)
+[AOSPA/android_vendor_nxp_opensource_hidlimp](https://github.com/AOSPA/android_vendor_nxp_opensource_hidlimpl.git)
  - branch: ```topaz-SN100X-legacy```
- - dir: ```vendor/nxp/opensource/hidlimp```
+ - dir: ```vendor/nxp/opensource/hidlimpl```
 
 [pa-lahaina/android_hardware_qcom_display](https://github.com/pa-lahaina/android_hardware_qcom_display)
  - branch: ```topaz-888```
